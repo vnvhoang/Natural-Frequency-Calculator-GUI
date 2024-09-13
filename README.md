@@ -294,15 +294,14 @@ For questions, suggestions, or support, please contact:
 
 If you find this tool useful in your research or professional work, please consider citing the associated research paper:
 
-> **Author(s)**: Vu Ngoc Viet Hoang, et al.
+> **Author(s)**: Peng Shi, Vu Ngoc Viet Hoang, Jian Yang, Haoge Shou, Qi Li, Ferruh Turan
 >
-> **Title**: [Title of the Research Paper]
+> **Title**: Free vibration and nonlinear transient analysis of blast-loaded FGM sandwich plates with stepped face sheets: Analytical and artificial neural network approaches
 >
 > **Journal/Conference**: [Name of the Journal or Conference], [Year], [Volume(Issue)], [Page Numbers].
 >
 > **DOI**: [DOI Number]
 
-*Replace the placeholders with actual publication details once available.*
 
 ---
 
