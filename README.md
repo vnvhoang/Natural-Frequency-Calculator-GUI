@@ -78,7 +78,7 @@ Ensure that these toolboxes are installed and licensed on your MATLAB environmen
 
 ## Usage
 
-### Launching the GUI**
+### Launching the GUI
 
 1. **Locate the Executable**
 
