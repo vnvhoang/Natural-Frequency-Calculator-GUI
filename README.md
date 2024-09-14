@@ -2,7 +2,7 @@
 
 Welcome to the **Natural Frequency Calculator**, a MATLAB-based Graphical User Interface (GUI) tool developed to predict the non-dimensional fundamental frequency of Functionally Graded Material (FGM) sandwich plates. This tool is designed to assist researchers and engineers in the field of material science and structural engineering by providing quick and accurate frequency predictions based on user-defined parameters.
 
-This GUI is developed as part of a research paper and is intended to be a supplementary tool referenced within the paper. A link to this repository will be included in the publication.
+This GUI was developed as part of the research paper titled "Free Vibration and Nonlinear Transient Analysis of Blast-Loaded FGM Sandwich Plates with Stepped Face Sheets: Analytical and Artificial Neural Network Approaches" by Peng Shi et al. The paper provides detailed insights into the methodology and applications of the Natural Frequency Calculator.
 
 ---
 
