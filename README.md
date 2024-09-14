@@ -48,10 +48,9 @@ The Natural Frequency Calculator provides an interactive platform for predicting
 
 ### Prerequisites
 
-- **MATLAB**: Version R2018b or later is recommended.
+- **MATLAB**: Version R2020b or later is recommended.
 - **MATLAB Toolboxes**:
   - **Neural Network Toolbox** (now part of the Deep Learning Toolbox)
-  - **Image Processing Toolbox** (optional, for displaying images)
 
 Ensure that these toolboxes are installed and licensed on your MATLAB environment.
 
