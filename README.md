@@ -130,10 +130,10 @@ The GUI requires eight input parameters related to the FGM sandwich plate's mate
 
 ### Selecting a Model
 
-A dropdown menu labeled **"Select Model"** allows you to choose from different pre-trained neural network models:
+A dropdown menu allows you to choose from different pre-trained neural network models:
 
 - **Model Configurations**:
-  - **A1** and **A2**: Different structural configurations or setups as defined in the research.
+  - **A1** and **A2**: Different structural configurations as defined in the research.
 - **Training Algorithms**:
   - **LM**: Levenberg-Marquardt algorithm.
   - **BR**: Bayesian Regularization algorithm.
@@ -180,14 +180,6 @@ The tool uses several pre-trained neural network models saved as `.mat` files. E
    - **LM Algorithm with Tan-sigmoid Activation** (`A2_LM_tansig.mat`)
    - **BR Algorithm with Log-sigmoid Activation** (`A2_BR_logsig.mat`)
    - **BR Algorithm with Tan-sigmoid Activation** (`A2_BR_tansig.mat`)
-
-### Model Selection Guidance
-
-- **LM (Levenberg-Marquardt)**: Generally faster convergence, suitable for smaller datasets.
-- **BR (Bayesian Regularization)**: Provides better generalization, suitable for complex datasets.
-- **Activation Functions**:
-  - **Log-sigmoid**: Good for binary outputs and probabilities.
-  - **Tan-sigmoid**: Useful when data is centered around zero.
 
 **Note**: Choose the model that best fits the characteristics of your specific problem or matches the conditions outlined in the research.
 
@@ -243,28 +235,8 @@ The GUI is divided into several sections for ease of navigation:
 
 - **MATLAB Compatibility**:
 
-  - If encountering errors, confirm that your MATLAB version meets the minimum requirement (R2018b or later).
+  - If encountering errors, confirm that your MATLAB version meets the minimum requirement (R2020b or later).
   - Update MATLAB and toolboxes if necessary.
-
----
-
-## Contributing
-
-Contributions to enhance the functionality or usability of the tool are welcome.
-
-- **Fork the Repository**: Create your own fork on GitHub.
-- **Create a Branch**: For new features or bug fixes.
-- **Submit a Pull Request**: Describe the changes made and submit for review.
-
-**Note**: For significant changes, please open an issue first to discuss what you would like to change.
-
----
-
-## License
-
-This project is licensed under the terms of the **MIT License**. You are free to use, modify, and distribute the software as per the license conditions.
-
-See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -296,9 +268,9 @@ If you find this tool useful in your research or professional work, please consi
 >
 > **Title**: Free vibration and nonlinear transient analysis of blast-loaded FGM sandwich plates with stepped face sheets: Analytical and artificial neural network approaches
 >
-> **Journal/Conference**: [Name of the Journal or Conference], [Year], [Volume(Issue)], [Page Numbers].
+> **Journal**:
 >
-> **DOI**: [DOI Number]
+> **DOI**: 
 
 
 ---
