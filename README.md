@@ -213,7 +213,7 @@ The GUI is divided into several sections for ease of navigation:
 - **Model File Not Found**:
 
   - **Error Message**: "The model file [filename] does not exist. Please check the file name and path."
-  - **Solution**: Verify that all model `.mat` files are present in the same directory as `FrequencyCalculator.m`.
+  - **Solution**: Verify that all model `.mat` files are present in the same directory as `FrequencyCalculator.exe`.
 
 - **Invalid Input Values**:
 
