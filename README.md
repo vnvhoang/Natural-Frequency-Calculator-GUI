@@ -86,29 +86,21 @@ Ensure that these toolboxes are installed and licensed on your MATLAB environmen
 
 ## Usage
 
-### Launching the GUI
+### Launching the GUI**
 
-1. **Open MATLAB**
+1. **Locate the Executable**
 
-   Start MATLAB on your computer.
+   Navigate to the folder where **`FrequencyCalculator.exe`** is stored on your computer.
 
-2. **Set Path**
+2. **Run the Executable**
 
-   In MATLAB, set the current directory to the location where the files are stored.
+   Double-click on **`FrequencyCalculator.exe`** to launch the GUI.
 
-3. **Run the Script**
+3. **GUI Window**
 
-   In the MATLAB Command Window, type:
+   The GUI will open in a new window titled **"Natural Frequency Calculator"**.
 
-   ```matlab
-   FrequencyCalculator
-   ```
-
-   Press **Enter** to execute the command.
-
-4. **GUI Window**
-
-   The GUI will launch in a new window titled **"Natural Frequency Calculator"**.
+**Note:** Ensure that all necessary supporting files and folders are in the same directory as **`FrequencyCalculator.exe`** for the application to function correctly.
 
 ### Input Parameters
 
