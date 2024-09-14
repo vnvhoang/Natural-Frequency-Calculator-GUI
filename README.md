@@ -56,21 +56,14 @@ Ensure that these toolboxes are installed and licensed on your MATLAB environmen
 
 ### Installation
 
-1. **Clone or Download the Repository**
-
-   Clone the repository using Git:
-
-   ```bash
-   git clone https://github.com/yourusername/natural-frequency-calculator.git
-   ```
-
-   Or download the ZIP file and extract it to a directory of your choice.
+1. **Download the Repository**
+ Download the ZIP file of the repository and extract its contents to a directory of your choice.
 
 2. **Verify File Structure**
 
    Ensure the following files are present in the directory:
 
-   - `FrequencyCalculator.m` (Main MATLAB script)
+   - `FrequencyCalculator.exe`  (Main MATLAB-based GUI executable)
    - `Figure.png` (Background image for the GUI)
    - Neural network model files:
      - `A1_LM_logsig.mat`
