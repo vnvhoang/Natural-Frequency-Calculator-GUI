@@ -126,7 +126,7 @@ The GUI requires eight input parameters related to the FGM sandwich plate's mate
 **Instructions**:
 
 - Enter numeric values into each field corresponding to the parameters listed.
-- Ensure all values are within the valid ranges specified in the research paper or relevant literature for accurate predictions.
+- Ensure all values are within the valid ranges specified in the research paper for accurate predictions.
 
 ### Selecting a Model
 
