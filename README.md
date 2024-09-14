@@ -41,7 +41,6 @@ The Natural Frequency Calculator provides an interactive platform for predicting
 - **Multiple Pre-Trained Models**: Choose from various configurations trained using different algorithms and activation functions.
 - **Real-Time Predictions**: Instant calculation and display of results upon input.
 - **Customizable Inputs**: Specify a wide range of material and geometric parameters.
-- **Visualization**: Includes graphical elements to enhance user experience.
 
 ---
 
