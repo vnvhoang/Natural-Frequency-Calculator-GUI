@@ -114,14 +114,14 @@ Ensure that these toolboxes are installed and licensed on your MATLAB environmen
 
 The GUI requires eight input parameters related to the FGM sandwich plate's material properties and geometry:
 
-1. **$$h_1/H$$**: Thickness ratio of the top layer to the total thickness.
-2. **$$h_2/H$$**: Thickness ratio of the bottom layer to the total thickness.
+1. **$$h_1/H$$**: The thickness ratio of the core layer to the total thickness (Segment I).
+2. **$$h_2/H$$**: The thickness ratio of the core layer to the total thickness (Segment II).
 3. **$$a/H$$**: Aspect ratio of plate length to total thickness.
-4. **$$b/a$$**: Ratio of plate width to plate length.
-5. **$$d/a$$**: Dimensionless parameter (related to boundary conditions or material gradation).
-6. **$$p$$**: Power-law index of the FGM (material gradation exponent).
-7. **$$\overline{G}_1$$**: Non-dimensional shear modulus for the top layer.
-8. **$$\overline{G}_2$$**: Non-dimensional shear modulus for the bottom layer.
+4. **$$b/a$$**: The ratio of the plate width to the plate length.
+5. **$$d/a$$**: The ratio of the length of Segment II to the total plate length.
+6. **$$p$$**: The power-law index of the FGM (material gradation exponent).
+7. **$$\overline{G}_1$$**: The non-dimensional Winkler coefficient.
+8. **$$\overline{G}_2$$**: The non-dimensional Pasternak shear coefficient.
 
 **Instructions**:
 
