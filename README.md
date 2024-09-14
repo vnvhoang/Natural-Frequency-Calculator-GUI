@@ -21,8 +21,6 @@ This GUI was developed as part of the research paper titled "Free Vibration and 
 - [Models Description](#models-description)
 - [GUI Components](#gui-components)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 - [Authors and Acknowledgments](#authors-and-acknowledgments)
 - [Contact Information](#contact-information)
 - [Citation](#citation)
