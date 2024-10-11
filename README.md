@@ -221,7 +221,10 @@ The GUI is divided into several sections for ease of navigation:
 
   - If encountering errors, confirm that your MATLAB version meets the minimum requirement (R2020a/b or later).
   - Update MATLAB and toolboxes if necessary.
-
+    
+- **MATLAB Runtime Version Not Found**:
+  - **Error Message**: "Could not find version 9.9 of the MATLAB Runtime. Attempting to load mclmcrrt9_9.dll."
+  - **Solution**: Install the correct version of the MATLAB Runtime that matches version 9.9 (MATLAB Runtime R2020b). You can download it from the [MATLAB Runtime website](https://www.mathworks.com/products/compiler/matlab-runtime.html). Follow the installation steps and ensure that it is properly added to your system's path.
 ---
 
 ## Authors and Acknowledgments
