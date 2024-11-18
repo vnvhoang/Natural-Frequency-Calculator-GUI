@@ -255,7 +255,7 @@ If you find this tool useful in your research or professional work, please consi
 >
 > **Title**: Free vibration and nonlinear transient analysis of blast-loaded FGM sandwich plates with stepped face sheets: Analytical and artificial neural network approaches
 >
-> **Journal**: Thin-Walled Structures
+> **Journal**: Thin-Walled Structures (Volume 206, Part B, January 2025, 112667)
 >
 > **DOI**: https://doi.org/10.1016/j.tws.2024.112667
 
